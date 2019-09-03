@@ -1,0 +1,7 @@
+E:\visualstudio\miscellenius\shape generator\shape generator\bin\TypeScriptHTMLApp1.dll.config
+E:\visualstudio\miscellenius\shape generator\shape generator\bin\TypeScriptHTMLApp1.dll
+E:\visualstudio\miscellenius\shape generator\shape generator\bin\TypeScriptHTMLApp1.pdb
+E:\visualstudio\miscellenius\shape generator\shape generator\obj\Debug\shape generator.csprojAssemblyReference.cache
+E:\visualstudio\miscellenius\shape generator\shape generator\obj\Debug\shape generator.csproj.CoreCompileInputs.cache
+E:\visualstudio\miscellenius\shape generator\shape generator\obj\Debug\TypeScriptHTMLApp1.dll
+E:\visualstudio\miscellenius\shape generator\shape generator\obj\Debug\TypeScriptHTMLApp1.pdb
